@@ -1,0 +1,9 @@
+body {
+	background-color: antiquewhite;
+}
+
+input {
+	width: 100px;
+	height: 40px;
+	font-size: larger;
+}
